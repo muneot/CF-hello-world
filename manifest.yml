@@ -5,4 +5,4 @@ applications:
   memory: 64M
   disk_quota: 256M
   instances: 1
-  credentialsId: 'CF_USER'
+  credentialsId: '2194964c-f937-4a3e-9ced-7ea040894878'
